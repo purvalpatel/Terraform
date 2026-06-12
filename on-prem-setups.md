@@ -37,4 +37,7 @@ Deploy Applications
 - Install Ubuntu 24.04 Server OS
 - cloud init enabled : `apt install cloud-init`
 - QEMU guest agent enabled : `apt-get install qemu-guest-agent`
+- Right click on VM -> Convert to template.
+
+Note template ID: `1000`
 
